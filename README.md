@@ -1,5 +1,6 @@
 # 環境構築
 ## 環境
+- docker 20.10.2
 - nginx
 - php7.4
 - mysql8.0
