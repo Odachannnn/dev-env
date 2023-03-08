@@ -2,7 +2,7 @@
 ## 環境
 - docker 20.10.2
 - nginx
-- php7.4
+- php8.2
 - mysql8.0
 - composer 2.0.13
 
